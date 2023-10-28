@@ -25,7 +25,6 @@ Bubble Sort is a basic sorting algorithm that repeatedly steps through the list,
 
    ```shell
    java HelloWorld
-
 ## Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request or open an issue.
